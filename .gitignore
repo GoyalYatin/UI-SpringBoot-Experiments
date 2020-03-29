@@ -3,6 +3,7 @@
 /dist
 /tmp
 /out-tsc
+*target
 
 # Log file
 *.log
@@ -26,9 +27,10 @@
 hs_err_pid*
 
 # IDEs and editors
-/.idea
-.project
-.classpath
+*.idea
+*.iml
+*.project
+*.classpath
 .c9/
 *.launch
 .settings/
