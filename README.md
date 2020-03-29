@@ -1,2 +1,2 @@
-# todoApp
-todo add for learning
+# UI SpringBoot Experiment
+Experiments using bpmnjs, activit, graphql etc
