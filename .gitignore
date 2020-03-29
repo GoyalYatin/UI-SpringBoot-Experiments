@@ -37,14 +37,10 @@ hs_err_pid*
 *.sublime-workspace
 
 # dependencies
-/node_modules
+*node_modules
 
 # IDE - VSCode
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 # misc
 /.sass-cache
